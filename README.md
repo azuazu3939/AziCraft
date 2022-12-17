@@ -1,0 +1,4 @@
+# AziCraft
+UnderWorldProjectの前身PL
+アクションバーの表示と、エンチャントを自体を大幅に変更しているPL
+mmのitemオプションのNBT必須。
