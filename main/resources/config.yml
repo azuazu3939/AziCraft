@@ -1,0 +1,46 @@
+ActionBarShowWorldName: AziCraft
+MaxEnchantTableLevel: (int) 50
+
+Enable_Vanilla_Enchantment:
+  sharpness: true
+  bane_of_arthropods: true
+  smite: true
+  power: true
+  flame: true
+  efficiency: true
+  sweeping: true
+  depth_strider: true
+  aqua_affinity: true
+  knockback: true
+  fortune: true
+  respiration: true
+  infinity: true
+  lure: true
+  silk_touch: true
+  fire_aspect: true
+  punch: true
+
+Enable_Custom_Enchantment:
+  armor_point: true
+  health_booster: true
+  toughness_point: true
+
+Custom_Enchantment_values:
+  armor_point:
+    maxLv: 10
+    tableStartLv: 1
+    tableEndLv: 10
+    rangeAdd: 10
+    type: "Armor"
+  health_booster:
+    maxLv: 10
+    tableStartLv: 1
+    tableEndLv: 10
+    rangeAdd: 10
+    type: "Armor"
+  toughness_point:
+    maxLv: 5
+    tableStartLv: 15
+    tableEndLv: 25
+    rangeAdd: 15
+    type: "Armor"
